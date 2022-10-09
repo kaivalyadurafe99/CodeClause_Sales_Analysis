@@ -1,4 +1,4 @@
-# Sales_Analysis
+# Sales Analysis
 
 1) Performed the Sales Analysis on the Super Market Sales Data and performs the Exploratory Data Analysis (EDA) using the Numpy, Pandas, Matplotlib, Seaborn libraries in Python.
 
